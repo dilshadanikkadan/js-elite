@@ -21,3 +21,4 @@ dilu = null; // overwrite the reference
 
 // dilu is removed from memor
 // if that normal map  it wont go 
+
